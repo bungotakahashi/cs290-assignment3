@@ -10,7 +10,12 @@
 
 function returnObjectLiteral() {
   //your code here
-  return undefined; //Modify ONLY this line
+  var object = {type: 'Goldfish', 
+  				brand: 'Pepperidge Farm',
+  				flavor: 'Cheddar',
+  				count: 2000
+  				};
+  return object; //Modify ONLY this line
   //end your code
 }
 
@@ -38,7 +43,10 @@ function returnObjectLiteral() {
 */
 
 //your code here
+function MessageLog(user){
+   var object = {user: user, Messagelog: function (messageText, direction){}};
 
+}
 //end your code
 
 /**
