@@ -1,1 +1,11 @@
-You log goes in this  file.
+Start: Sun, 19 Apr 2015 20:17:10 -0700  
+End: Sun, 19 Apr 2015 20:30:16 -0700 
+Tasks: During this period, I finished variables.js
+
+Start: Sun, 19 Apr 2015 16:07:00 -0700 
+End: Sun, 19 Apr 2015 20:16:07 -0700 
+Tasks: During this period, I worked on the first two tasks in objects.js
+
+Start: Sat, 18 Apr 2015 16:30:00 -0700 
+End: Sat, 18 Apr 2015 22:40:43 -0700 
+Tasks: during this period I got functions.js done
